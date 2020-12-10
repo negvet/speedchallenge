@@ -46,7 +46,7 @@ Train in Colab
 - 2 output velocity predictions (per sequence) are upscaled to 10 frames linearly. 2 raw predictions per second, far from real-time, but, typically, a car motion model has pretty slow dynamics.
 
 The model was able to show approx. 1.3 MSE on the val data set. Final model chackpoint is uploaded.
-![alt text](https://github.com/negvte/speedchallenge/blob/master/train_val_mse_loss_during_trainig.png?raw=true)
+![alt text](https://github.com/negvet/speedchallenge/blob/master/train_val_mse_loss_during_trainig.png)
 
 Test
 -----
